@@ -6,7 +6,7 @@
 	hello_world();
 	hello_world();
 	hello_world();
-
+	//en la otra hay una entrada!
 	function add($num1, $num2){
 		echo $num1 + $num2;
 	}
