@@ -25,4 +25,6 @@
 	$result2 = add2(1,1);
 	$result3 = add2(1,3);
 	echo $result2 * $result3;
+
+	//HotFix
 ?>
