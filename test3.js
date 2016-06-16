@@ -5,4 +5,6 @@ $(function(){
 			alert('special');
 		}
 	});
+
+	//hotfix
 });
